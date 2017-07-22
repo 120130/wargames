@@ -1,0 +1,2 @@
+# wargames
+c++ training games
